@@ -1,0 +1,10 @@
+^C:\PROYECTOS\VISUAL STUDIO 2022\ED22-01-BASSANO-ROA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa" "-BC:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build" --check-stamp-file "C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

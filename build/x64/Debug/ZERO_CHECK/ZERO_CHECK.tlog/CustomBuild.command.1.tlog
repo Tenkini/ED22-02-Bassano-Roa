@@ -1,0 +1,10 @@
+^C:\PROYECTOS\VISUAL STUDIO 2022\ED22-01-BASSANO-ROA\BUILD\CMAKEFILES\956BCA6CD8CCFFE8EF835F7A3A0BF834\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa" "-BC:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/tallerLab.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

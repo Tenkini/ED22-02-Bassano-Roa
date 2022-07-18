@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\Persona.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\Detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\KdTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\KdTreeNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A54201A0-FAD0-31E3-87B1-D88FEB3A93F0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

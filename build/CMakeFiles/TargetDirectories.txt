@@ -1,0 +1,9 @@
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/Experimental.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/Nightly.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/Continuous.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/tallerLab.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/PACKAGE.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/RUN_TESTS.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/ALL_BUILD.dir
+C:/Proyectos/Visual Studio 2022/ED22-01-Bassano-Roa/build/CMakeFiles/ZERO_CHECK.dir

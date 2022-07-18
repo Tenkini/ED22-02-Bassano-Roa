@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\build\CMakeFiles\956bca6cd8ccffe8ef835f7a3a0bf834\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Proyectos\Visual Studio 2022\ED22-01-Bassano-Roa\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{62053DB0-41A6-3894-877E-D1996C050349}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -6,9 +6,7 @@
 
 **Alumnos:**
 
-* Daniel Bassano (Diseñador y programador)
-* Matías Roa (Líder, administrador y programador)
-
+* Daniel Bassano (Líder, diseñador y programador)
 ## 1. Introducción
 
 El presente trabajo es un informe técnico del sistema de detección y Re identificación de personas en secuencias de imágenes o videos. Este diseño es una posible solución a los requerimientos que se exigen, para desarrollar el trabajo se ha dividido en 13 objetivos a realizar

@@ -6,8 +6,7 @@
 
 **Alumnos:**
 
-* Daniel Bassano (Diseñador y programador)
-* Matías Roa (Líder, administrador y programador)
+* Daniel Bassano (Líder, diseñador y programador)
 
 ## Bitácora
 [Ver Bitácora](./docs/Bitacora.md)
